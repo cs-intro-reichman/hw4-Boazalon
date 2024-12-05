@@ -27,7 +27,7 @@ public class Primes {
             }
         }
         double pri = (count/N)*100;
-        System.out.println("There are "+count+" primes between 2 and "+ N+ " ("+(int)pri+"% are primes)");
+        System.out.println("There are "+(int)count+" primes between 2 and "+N+ " ("+(int)pri+"% are primes)");
 
         
 
